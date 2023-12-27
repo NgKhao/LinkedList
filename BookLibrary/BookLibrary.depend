@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1697702474 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\booklibrary\main.cpp
+	<iostream>
+	"BooksOfLibrary.h"
+
+1697558577 k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\booklibrary\include\booksoflibrary.h
+	"InforBook.h"
+
+1697555675 k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\booklibrary\include\inforbook.h
+	<iostream>
+
+1697547039 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\booklibrary\src\inforbook.cpp
+	"InforBook.h"
+
+1697702450 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\booklibrary\src\booksoflibrary.cpp
+	"BooksOfLibrary.h"
+	<iostream>
+	<string>
+

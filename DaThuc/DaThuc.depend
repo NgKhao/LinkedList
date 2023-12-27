@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1696911133 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\dathuc\src\element.cpp
+	"Element.h"
+
+1697470633 k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\dathuc\include\element.h
+
+1697701641 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\dathuc\main.cpp
+	<iostream>
+	"Polynomial.h"
+
+1697551718 k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\dathuc\include\polynomial.h
+	"Element.h"
+
+1697701618 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\dathuc\src\polynomial.cpp
+	"Polynomial.h"
+	<iostream>
+	<math.h>
+
+1697529851 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\dathuc\src\nodedathuc.cpp
+	"Element.h"
+
+1700588327 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\dslk_stack_queue\dathuc\main.cpp
+	<iostream>
+	"Polynomial.h"
+
+1697551718 k:\dulieuhoctap\hocki1nam2\ctdl&gt\dslk_stack_queue\dathuc\include\polynomial.h
+	"Element.h"
+
+1697470633 k:\dulieuhoctap\hocki1nam2\ctdl&gt\dslk_stack_queue\dathuc\include\element.h
+
+1697529851 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\dslk_stack_queue\dathuc\src\nodedathuc.cpp
+	"Element.h"
+
+1700586805 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\dslk_stack_queue\dathuc\src\polynomial.cpp
+	"Polynomial.h"
+	<iostream>
+	<math.h>
+

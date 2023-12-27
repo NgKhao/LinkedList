@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1696849838 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\linked_listtt\main.cpp
+	<iostream>
+	"linkedlist.h"
+
+1696849889 k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\linked_listtt\include\linkedlist.h
+	"element.h"
+
+1696391301 k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\linked_listtt\include\element.h
+
+1696391320 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\linked_listtt\src\element.cpp
+	"element.h"
+
+1696849737 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\linked_listtt\src\linkedlist.cpp
+	"linkedlist.h"
+	<iostream>
+
+1696391320 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\linked_list_double\src\element.cpp
+	"element.h"
+
+1696391301 k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\linked_list_double\include\element.h
+
+1697048986 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\linked_list_double\src\linkedlist.cpp
+	"linkedlist.h"
+	<iostream>
+
+1697047906 k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\linked_list_double\include\linkedlist.h
+	"element.h"
+
+1697046829 source:k:\dulieuhoctap\hocki1nam2\ctdl&gt\chuong4\linked_list_double\main.cpp
+	<iostream>
+	"linkedlist.h"
+
